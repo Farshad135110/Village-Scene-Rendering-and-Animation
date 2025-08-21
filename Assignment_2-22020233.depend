@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1725090258 source:c:\users\user\onedrive\desktop\opengl\assignment_2-22020233\main.c
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+
